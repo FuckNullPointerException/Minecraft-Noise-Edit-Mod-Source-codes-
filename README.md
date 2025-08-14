@@ -8,7 +8,9 @@
 2.Source code usage
 
 > Codes in this project is just for STUDY.
+> 
 > You **can't** use it for businese.
+> 
 > For re-develop, you must note the original author.
 
 To fill later
